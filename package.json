@@ -1,0 +1,23 @@
+{
+  "name": "saninn",
+  "version": "0.0.5",
+  "description": "My Business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "saninnsalas": "./index.js",
+    "saninnsalasdiaz": "./index.js",
+    "saninn": "./index.js",
+    "ssd": "./index.js"
+  },
+  "keywords": [
+    "Business card",
+    "Business",
+    "card"
+  ],
+  "author": "Saninn Salas Diaz (http://saninnsalas.com)",
+  "license": "ISC",
+  "homepage": "https://saninnsalas.com"
+}

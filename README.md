@@ -10,4 +10,4 @@ Just run `npx saninn` in your terminal now!.
 
 ---
 
-Thanks to [@_der_markusende](https://twitter.com/_der_markusende) for the idea ☺️
+Thanks to [@_der_markusende](https://twitter.com/_der_markusende) for the idea 😊

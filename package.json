@@ -19,5 +19,10 @@
   ],
   "author": "Saninn Salas Diaz (http://saninnsalas.com)",
   "license": "ISC",
-  "homepage": "https://saninnsalas.com"
+  "homepage": "https://saninnsalas.com",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "center-text": "^0.1.0",
+    "chalk": "^2.4.1"
+  }
 }

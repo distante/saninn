@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+console.clear();
+console.log('');
+
 const centerText = require('center-text');
 const boxen = require('boxen');
 const chalk = require('chalk');
@@ -13,8 +16,6 @@ Developer - Audio Technician - Music Producer
     {bold Xing}: https://www.xing.com/profile/Saninn_SalasDiaz
     {bold Facebook}: https://www.facebook.com/SaninnSD
 `;
-
-console.clear();
 
 console.log(
     boxen(cardContent, {
